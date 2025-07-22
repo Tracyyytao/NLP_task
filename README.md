@@ -8,7 +8,7 @@
 ![evaluate](https://github.com/Tracyyytao/NLP_task/blob/main/text_classification_machine_learning/assets/evaluate.png?raw=true)
 
 # 2. 基于深度学习的文本分类
-1.在[https://nlp.stanford.edu/projects/glove/]中下载glove.6B.100d.txt文件存放进data文件夹中
+1.在 [https://nlp.stanford.edu/projects/glove/] 中下载glove.6B.100d.txt文件存放进data文件夹中
 
 2.运行train.py文件，终端会打印以下信息
 
@@ -19,7 +19,7 @@
 ![evaluate](https://github.com/Tracyyytao/NLP_task/blob/main/text_classification_deep_learning/assets/evaluate.png?raw=true)
 
 # 3. 基于机器学习的文本分类
-1.在[https://nlp.stanford.edu/projects/snli/]中下载snli_1.0_train.jsonl、snli_1.0_test.jsonl、snli_1.0_dev.jsonl三个文件存放进data/snli_1.0目录下
+1.在 [https://nlp.stanford.edu/projects/snli/] 中下载snli_1.0_train.jsonl、snli_1.0_test.jsonl、snli_1.0_dev.jsonl三个文件存放进data/snli_1.0目录下
 
 2.运行运行train.py文件，终端会打印以下信息
 
