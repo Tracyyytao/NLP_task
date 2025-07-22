@@ -2,6 +2,7 @@
 1.运行train.py文件，终端会打印以下信息
 
 ![train](https://github.com/Tracyyytao/NLP_task/blob/main/text_classification_machine_learning/assets/train.png?raw=true)
+
 2.运行evaluate.py文件，结果如下
 
 ![evaluate](https://github.com/Tracyyytao/NLP_task/blob/main/text_classification_machine_learning/assets/evaluate.png?raw=true)
@@ -23,9 +24,11 @@
 2.运行运行train.py文件，终端会打印以下信息
 
 ![train](https://github.com/Tracyyytao/NLP_task/blob/main/text_matching_attention/assets/train.png?raw=true)
+
 3.运行predict.py文件，结果如下
 
 ![predict](https://github.com/Tracyyytao/NLP_task/blob/main/text_matching_attention/assets/predict.png?raw=true)
+
 # 4. 基于LSTM+CRF的序列标注
 1.因为下载CONLL 2003数据集总是出错，换了一个中文Resume数据集进行本次的NER任务。
 
